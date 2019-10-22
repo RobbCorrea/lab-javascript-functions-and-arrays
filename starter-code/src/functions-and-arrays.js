@@ -1,5 +1,9 @@
 // Find the maximum
 
+function maxOfTwoNumbers() {
+  
+}
+
 // Finding Longest Word
 const words = [
   'mystery',
